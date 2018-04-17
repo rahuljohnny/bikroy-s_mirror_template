@@ -1,0 +1,117 @@
+body{
+    background-color: #E7EDEE;
+}
+
+.navbar-bikroythree{
+    background-color: #00a884;;
+}
+
+.btn-btnbikroynav{
+    border: #0F8A71 2px solid;
+    background-color: #00a884;
+    color: #ffffff;
+
+}
+
+.btn-circle{
+    border-radius: 73px;
+}
+
+.btn-yellow-big{
+    background-color: #CD8700;
+}
+
+.btn-circle:hover {
+    background-color: yellow;
+}
+
+.btn-btnbikroynav2{
+    border: #0F8A71 2px solid;
+    background-color: #00a884;
+    color: #ffffff;
+
+    height: 45px;
+    width: 245px;
+}
+
+hr {
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 1px;
+    /*background-color: green;*/
+    border-color: #37803b;
+}
+
+
+
+.panel-padding-bottom{
+    padding-bottom: 20px;
+}
+
+.text-white{
+    color: white;
+}
+
+
+/*Searchform*/
+#search {
+    float: right;
+    margin-top: 9px;
+    width: 250px;
+}
+
+.search {
+    padding: 5px 0;
+    width: 230px;
+    height: 30px;
+    position: relative;
+    left: 10px;
+    float: left;
+    line-height: 22px;
+}
+
+.search input {
+    position: absolute;
+    width: 0px;
+    float: Left;
+    margin-left: 210px;
+    -webkit-transition: all 0.7s ease-in-out;
+    -moz-transition: all 0.7s ease-in-out;
+    -o-transition: all 0.7s ease-in-out;
+    transition: all 0.7s ease-in-out;
+    height: 30px;
+    line-height: 18px;
+    padding: 0 2px 0 2px;
+    border-radius:1px;
+}
+
+.search:hover input, .search input:focus {
+    width: 200px;
+    margin-left: 0px;
+}
+
+.btnN {
+    height: 30px;
+    position: absolute;
+    right: 0;
+    top: 5px;
+    border-radius:1px;
+}
+
+/*Searchform*/
+
+.hrOne{
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 1px;
+    /*background-color: green;*/
+    border-color: #515151;
+}
